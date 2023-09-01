@@ -67,9 +67,6 @@ then run the following command:
 docker-compose up
 ```
 
-## Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y797KCA)
 
 ## Show your support
 
